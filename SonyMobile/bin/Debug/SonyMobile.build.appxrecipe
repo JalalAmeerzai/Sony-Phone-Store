@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAYTANK-PC</Machine>
+    <WindowsUser>JayTank</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0ced598e-68d0-446d-9c7e-58337ac5a3fe</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\SonyMobile.exe">
+      <PackagePath>SonyMobile.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b10p10.png">
+      <PackagePath>Assets\b10p10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b11p11.png">
+      <PackagePath>Assets\b11p11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b1p1.png">
+      <PackagePath>Assets\b1p1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b2p2.png">
+      <PackagePath>Assets\b2p2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b3p3.png">
+      <PackagePath>Assets\b3p3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b4p4.png">
+      <PackagePath>Assets\b4p4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b5p5.png">
+      <PackagePath>Assets\b5p5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b6p6.png">
+      <PackagePath>Assets\b6p6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b7p7.png">
+      <PackagePath>Assets\b7p7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b8p8.png">
+      <PackagePath>Assets\b8p8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b9p9.png">
+      <PackagePath>Assets\b9p9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\bg.png">
+      <PackagePath>Assets\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\MainLogo.png">
+      <PackagePath>Assets\MainLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\phones.png">
+      <PackagePath>Assets\phones.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\Bg.jpg">
+      <PackagePath>Assets\Bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\Brands.xbf">
+      <PackagePath>Brands.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\ProductPage.xbf">
+      <PackagePath>ProductPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\SonyMobile.xr.xml">
+      <PackagePath>SonyMobile.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

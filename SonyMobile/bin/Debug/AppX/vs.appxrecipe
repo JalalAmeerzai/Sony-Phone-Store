@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAYTANK-PC</Machine>
+    <WindowsUser>JayTank</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0ced598e-68d0-446d-9c7e-58337ac5a3fe</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>282DDC61D6E1B619A89A5028993F933EAF8D5A72415B92A2A7690E9F7D573373</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0ced598e-68d0-446d-9c7e-58337ac5a3fe_1.0.0.0_neutral__3bnam90239pwt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0ced598e-68d0-446d-9c7e-58337ac5a3fe_3bnam90239pwt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0ced598e-68d0-446d-9c7e-58337ac5a3fe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=JayTank</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-20T08:50:07.127</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\SonyMobile.exe">
+      <PackagePath>SonyMobile.exe</PackagePath>
+      <Modified>2016-05-20T12:31:28.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b10p10.png">
+      <PackagePath>Assets\b10p10.png</PackagePath>
+      <Modified>2016-05-20T08:07:26.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b11p11.png">
+      <PackagePath>Assets\b11p11.png</PackagePath>
+      <Modified>2016-05-20T08:07:26.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b1p1.png">
+      <PackagePath>Assets\b1p1.png</PackagePath>
+      <Modified>2016-05-20T08:07:29.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b2p2.png">
+      <PackagePath>Assets\b2p2.png</PackagePath>
+      <Modified>2016-05-20T05:36:24.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b3p3.png">
+      <PackagePath>Assets\b3p3.png</PackagePath>
+      <Modified>2016-05-20T08:07:30.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b4p4.png">
+      <PackagePath>Assets\b4p4.png</PackagePath>
+      <Modified>2016-05-20T08:07:30.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b5p5.png">
+      <PackagePath>Assets\b5p5.png</PackagePath>
+      <Modified>2016-05-20T08:07:30.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b6p6.png">
+      <PackagePath>Assets\b6p6.png</PackagePath>
+      <Modified>2016-05-20T08:07:30.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b7p7.png">
+      <PackagePath>Assets\b7p7.png</PackagePath>
+      <Modified>2016-05-20T08:07:26.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b8p8.png">
+      <PackagePath>Assets\b8p8.png</PackagePath>
+      <Modified>2016-05-20T08:07:26.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\b9p9.png">
+      <PackagePath>Assets\b9p9.png</PackagePath>
+      <Modified>2016-05-20T08:07:26.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\bg.png">
+      <PackagePath>Assets\bg.png</PackagePath>
+      <Modified>2016-05-20T03:46:35.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+      <Modified>2016-05-20T03:50:08.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\MainLogo.png">
+      <PackagePath>Assets\MainLogo.png</PackagePath>
+      <Modified>2016-05-20T04:02:34.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\phones.png">
+      <PackagePath>Assets\phones.png</PackagePath>
+      <Modified>2016-05-20T03:54:28.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\Assets\Bg.jpg">
+      <PackagePath>Assets\Bg.jpg</PackagePath>
+      <Modified>2016-05-20T04:19:18.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-20T03:48:12.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\Brands.xbf">
+      <PackagePath>Brands.xbf</PackagePath>
+      <Modified>2016-05-20T12:31:28.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-20T12:31:28.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\ProductPage.xbf">
+      <PackagePath>ProductPage.xbf</PackagePath>
+      <Modified>2016-05-20T12:31:28.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\SonyMobile.xr.xml">
+      <PackagePath>SonyMobile.xr.xml</PackagePath>
+      <Modified>2016-05-20T12:05:07.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JayTank\Desktop\SonyMobile\SonyMobile\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-20T08:50:06.885</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
